@@ -1,0 +1,16 @@
+[] - List
+() - tuple (read only)
+{} - dict
+
+if 
+elif
+
+while
+for
+
+
+def function_name(intput): - funtion
+
+file i/o
+
+open(file_name.[,access_mode],[,buffering])

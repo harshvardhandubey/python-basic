@@ -1,0 +1,8 @@
+for letter in 'Python':
+	print 'Current Letter : ',letter
+
+fruit=['b','a','m']
+for fruit in fruits:
+	print 'Current fruit: ', fruit
+
+print "bye 
